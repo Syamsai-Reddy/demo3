@@ -149,7 +149,7 @@ function App() {
 
       <main>
         <section id="home" className="hero">
-          <Img src="/assets/storefront.png" alt="Chappal House storefront in Atmakur" className="hero-bg" fallbackIcon={Footprints} />
+          <Img src="/assets/hero.png" alt="Chappal House store sign in Atmakur" className="hero-bg" fallbackIcon={Footprints} />
           <div className="hero-overlay" />
           <Reveal className="hero-content">
             <p className="eyebrow">CHAPPAL HOUSE • ATMAKUR</p>
